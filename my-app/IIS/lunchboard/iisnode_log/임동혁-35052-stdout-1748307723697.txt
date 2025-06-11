@@ -1,0 +1,3 @@
+✅ GEMINI_API_KEY: AIzaSyAUOGh1Hx931dTZlrtMiR9CKS6Rq8UUEfQ
+✅ typeof apiKey 전달값: string
+✅ API listening on \\.\pipe\cbb22994-9e06-4a48-9ef9-17ecec22a5e3
